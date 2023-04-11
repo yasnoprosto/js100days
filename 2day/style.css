@@ -1,0 +1,45 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Courier New', Courier, monospace;
+    box-sizing: border-box;
+}
+
+h1 {
+    font-size: 15px;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    background-color: #eee;
+    height: 100%;
+    width: 100%;
+
+}
+
+.container {
+    margin: 16% 0% 0% 25%;
+    padding: 1%;
+    background-color: #fff;
+    text-align: center;
+    width: 50%;
+    border: 1px solid salmon;
+    border-radius: 1rem;
+}
+
+#number {
+    font-size: 75px;
+    color:gray
+}
+
+#btn__generate {
+    width: 15vw;
+    height: 10vh;
+    border-radius: 1rem;
+    color: #eee;
+    background-color: black;
+    border: none;
+}
+
