@@ -1,1 +1,1 @@
-# js100days
+Counter App
