@@ -1,1 +1,1 @@
-Counter App
+Practicing JS
